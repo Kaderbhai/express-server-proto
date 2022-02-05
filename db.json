@@ -1,0 +1,44 @@
+{
+  "batteries" : [
+    {
+    "name": "Goodwe Lynx U-Series",
+    "type": "DC battery system - Lithium LFP cells",
+    "size": "5.4",
+    "cycle_life": "4000",
+    "price": "3300",
+    "warranty": "10"
+  },
+  {
+    "name": "BYD LVS & LVL",
+    "type": "DC battery system - Lithium LFP prismatic cells",
+    "size": "4.0",
+    "cycle_life": "3000",
+    "price": "750 ",
+    "warranty": "10"
+  },
+  {
+    "name": "Huawei LUNA2000",
+    "type": "DC battery system - HV battery modules",
+    "size": "5.0",
+    "cycle_life": "4000",
+    "price": "3800",
+    "warranty": "10"
+  },
+  {
+    "name": "Tesla Powerwall 2",
+    "type": "AC battery system - Lithium NMC cells",
+    "size": "13.5",
+    "cycle_life": "3500",
+    "price": "11000",
+    "warranty": "10"
+  },
+  {
+    "name": "PowerPlus Energy LiFe Premium",
+    "type": "DC ‘self-managed’ battery system - Lithium (LFP) cells",
+    "size": "3.3",
+    "cycle_life": "3000-500",
+    "price": "3400",
+    "warranty": "10"
+  }
+]
+}
